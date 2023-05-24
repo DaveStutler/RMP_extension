@@ -1,8 +1,8 @@
 import ratemyprofessor
 from bs4 import BeautifulSoup
-import numpy as np
 import pandas as pd
 import json
+import numpy as np
 import requests
 import requests_cache
 from urllib.request import urlopen
